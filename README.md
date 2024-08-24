@@ -34,3 +34,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# rateProfessor
+Create two files in the root repository called '.env.local' and '.env'. Store the same values in each:  
+PINECONE_API_KEY=YOUR_PINECONE_API_KEY  
+PINECONE_INDEX_NAME=YOUR_PINECONE_INDEX_NAME  
+PINECONE_ENVIRONMENT=YOUR_PINECONE_ENVIRONMENT  
+OPENAI_API_KEY=YOUR_OPENAI_API_KEY  
+
+Modify reviews in reviews.json, and if you modified reviews or are using your own database, run setup_rag.py in order to save the reviews to the database.  
+
+Run the project as normal.

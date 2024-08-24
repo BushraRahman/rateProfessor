@@ -1,0 +1,40 @@
+{
+  "reviews": [
+    {
+      "professor": "Rahirez",
+      "review": "Great professor. He cares a lot about his lessons and makes the class fun.",
+      "subject": "French",
+      "stars": 5
+    },
+    {
+      "professor": "Sterm",
+      "review": "Total bore. Just does theory with no practical applications! Was totally unprepared for the AP. He's really nice though.",
+      "subject": "Calculus",
+      "stars": 2
+    },
+    {
+      "professor": "Stuz",
+      "review": "So friendly! I feel comfortable going to them for anything! Could be better at controlling the students, though.",
+      "subject": "English",
+      "stars": 4
+    },
+    {
+      "professor": "Brand",
+      "review": "Ignore the other reviews complaining about this professor. They assign homework daily, but it's really simple and short: I do it in 5 minutes. All of the notes are uploaded online. Tests are really easy if you review them!",
+      "subject": "US History",
+      "stars": 5
+    },
+    {
+      "professor": "Hannon",
+      "review": "His class is really fun and mostly chill, but he doesn't give us nearly enough time for creating and memorizing scripts, so there are a few days of cramming each semester!",
+      "subject": "Acting",
+      "stars": 4
+    },
+    {
+      "professor": "Citrus",
+      "review": "Such a fun class with a funny teacher! He's also obviously very passionate about his subject. Those tests are impossible to prepare for, though.",
+      "subject": "Science",
+      "stars": 4
+    }
+  ]
+}
