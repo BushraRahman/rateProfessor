@@ -35,6 +35,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # rateProfessor
+Run 'pip install python-dotenv pinecone-client openai'  
+
 Create two files in the root repository called '.env.local' and '.env'. Store the same values in each:  
 PINECONE_API_KEY=YOUR_PINECONE_API_KEY  
 PINECONE_INDEX_NAME=YOUR_PINECONE_INDEX_NAME  
